@@ -2,15 +2,14 @@
 
 <img src="./assets/header.svg" alt="Ahad Hossain Aiman: Senior Full Stack Developer, AI integration and DevOps" width="100%"/>
 
-<a href="https://github.com/ahadhossainaiman">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=820&height=50&lines=AI-integrated+full+stack+apps%2C+shipped+to+production;Node.js+%2B+TypeScript+backends+that+scale;Docker+%C2%B7+Nginx+%C2%B7+PM2+%C2%B7+CI%2FCD+to+production;Gemini-powered+chatbots+with+real+admin+control" alt="Typing animation" />
-</a>
+<img src="./assets/tagline.svg" alt="AI-integrated full stack apps, shipped to production" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahad-hossain-aiman)
-[![Gmail](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahad.aiman2@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/ahadhossainaiman?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=7c3aed)](https://github.com/ahadhossainaiman?tab=followers)
+<a href="https://linkedin.com/in/ahad-hossain-aiman"><img src="./assets/btn-linkedin.svg" height="52" alt="LinkedIn"/></a>
+<a href="mailto:ahad.aiman2@gmail.com"><img src="./assets/btn-email.svg" height="52" alt="Email"/></a>
+<a href="https://github.com/ahadhossainaiman?tab=followers"><img src="./assets/btn-github.svg" height="52" alt="GitHub"/></a>
+<img src="./assets/open-to-work.svg" height="52" alt="Open to work"/>
 
 </div>
 
@@ -18,20 +17,9 @@
 
 ## ⚡ whoami
 
-```ts
-const ahad = {
-  name: "Ahad Hossain Aiman",
-  role: "Senior Software Engineer @ Spark Tech Agency",
-  location: "Dhaka, Bangladesh 🇧🇩",
-  stack: ["Node.js", "TypeScript", "React", "Next.js", "MongoDB", "PostgreSQL"],
-  ai: ["Google Gemini API", "AI chatbots with admin-editable settings"],
-  devops: ["Docker", "Nginx", "PM2", "CI/CD", "Linux VPS", "AWS", "Cloudflare"],
-  experience: "3+ years · 30+ production apps · international clients",
-  currentlyBuilding: "AI-integrated products with Google Gemini",
-  motto: "Own the whole lifecycle: design → code → deploy → handover",
-  openToWork: true,
-};
-```
+<div align="center">
+  <img src="./assets/whoami.svg" alt="whoami: Ahad Hossain Aiman, Senior Software Engineer at Spark Tech Agency in Dhaka. Stack: Node.js, TypeScript, React, Next.js, MongoDB, PostgreSQL. AI: Google Gemini API. DevOps: Docker, Nginx, PM2, CI/CD, Linux VPS, AWS, Cloudflare. 3+ years, 30+ production apps. Open to work." width="100%"/>
+</div>
 
 <br/>
 
