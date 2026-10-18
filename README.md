@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahad-hossain-aiman)
 [![Gmail](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahad.aiman2@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=ahadhossainaiman&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/ahadhossainaiman?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=7c3aed)](https://github.com/ahadhossainaiman?tab=followers)
 
 </div>
 
