@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Ahad Hossain Aiman — Senior Full Stack Developer" width="100%"/>
+<img src="./assets/header.svg" alt="Ahad Hossain Aiman: Senior Full Stack Developer, AI integration and DevOps" width="100%"/>
 
 <a href="https://github.com/ahadhossainaiman">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&height=50&lines=I+turn+ideas+into+production+apps;Node.js+%2B+TypeScript+backends+that+scale;React+%2B+Next.js+UIs+people+enjoy+using;Real-time%2C+payments%2C+AI%2C+and+DevOps%2C+end+to+end" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=820&height=50&lines=AI-integrated+full+stack+apps%2C+shipped+to+production;Node.js+%2B+TypeScript+backends+that+scale;Docker+%C2%B7+Nginx+%C2%B7+PM2+%C2%B7+CI%2FCD+to+production;Gemini-powered+chatbots+with+real+admin+control" alt="Typing animation" />
 </a>
 
 <br/>
@@ -23,15 +23,11 @@ const ahad = {
   name: "Ahad Hossain Aiman",
   role: "Senior Software Engineer @ Spark Tech Agency",
   location: "Dhaka, Bangladesh 🇧🇩",
+  stack: ["Node.js", "TypeScript", "React", "Next.js", "MongoDB", "PostgreSQL"],
+  ai: ["Google Gemini API", "AI chatbots with admin-editable settings"],
+  devops: ["Docker", "Nginx", "PM2", "CI/CD", "Linux VPS", "AWS", "Cloudflare"],
   experience: "3+ years · 30+ production apps · international clients",
-  superpowers: [
-    "Architecting Node.js/TypeScript APIs",
-    "Real-time systems with Socket.IO (500+ concurrent connections)",
-    "Stripe & PayFast payments, subscriptions, webhooks",
-    "Multi-role access control (up to 6 roles)",
-    "Shipping to App Store & Google Play",
-  ],
-  currentlyBuilding: "AI-powered brand platforms with Google Gemini",
+  currentlyBuilding: "AI-integrated products with Google Gemini",
   motto: "Own the whole lifecycle: design → code → deploy → handover",
   openToWork: true,
 };
@@ -47,6 +43,32 @@ const ahad = {
 
 <br/>
 
+## ⚙️ DevOps: Commit to Production
+
+<div align="center">
+  <img src="./assets/pipeline.svg" alt="CI/CD pipeline: commit, test, build, deploy, monitor" width="100%"/>
+</div>
+
+<br/>
+
+## 🤖 AI Layer
+
+I integrate AI into real products, not demos. The SPORTAMINS chatbot runs on **Google Gemini** behind my own Node API, with a branded chat UI and settings the client can edit from the admin dashboard.
+
+<div align="center">
+  <img src="./assets/ai.svg" alt="AI flow: chat UI to Node API to Google Gemini, with admin-editable settings" width="100%"/>
+</div>
+
+<br/>
+
+## 🖥️ Live from the Terminal
+
+<div align="center">
+  <img src="./assets/terminal.svg" alt="Animated terminal: git push, CI, docker build, nginx reload, pm2 reload, deployed" width="100%"/>
+</div>
+
+<br/>
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -58,15 +80,15 @@ const ahad = {
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql&perline=9" alt="Backend skills"/>
 
 **DevOps & Cloud**<br/>
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,cloudflare,firebase,githubactions,git,github&perline=9" alt="DevOps skills"/>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,cloudflare,firebase,githubactions,bash,git,github&perline=10" alt="DevOps skills"/>
 
 <br/>
 
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 ![OneSignal](https://img.shields.io/badge/OneSignal-E54B4D?style=for-the-badge&logo=onesignal&logoColor=white)
@@ -132,7 +154,7 @@ Live on the **App Store** and **Google Play**, connecting patients with doctors,
 2018 ─ 2022   🎓  B.Sc. in CSE, National University (Dhaka City College)
 Sep 2023      🌱  Frontend Developer (Intern) @ Excel IT AI LTD: React, Next.js, Figma-to-code
 Feb 2024      🚀  Senior Software Engineer @ Spark Tech Agency: full stack, DevOps, client delivery
-2026          🏋️  SPORTAMINS: 3-app brand platform with an AI chatbot, shipped and handed over
+2026          🤖  SPORTAMINS: 3-app brand platform with a Gemini-powered AI chatbot
 Now           ⚡  Building what's next
 ```
 
@@ -168,7 +190,7 @@ Now           ⚡  Building what's next
 
 ## 🤝 Let's Build Something
 
-I'm open to full stack products, SaaS platforms, real-time apps, and API/backend work. If you have an idea and need someone to take it from zero to live, let's talk.
+I'm open to full stack products, AI-integrated apps, SaaS platforms, real-time systems, and backend/DevOps work. If you have an idea and need someone to take it from zero to live, let's talk.
 
 <div align="center">
 
