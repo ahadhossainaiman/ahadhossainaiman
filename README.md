@@ -15,11 +15,20 @@
 
 <br/>
 
-## ⚡ whoami
+## 🎮 whoami: Player 1
 
 <div align="center">
-  <img src="./assets/whoami.svg" alt="whoami: Ahad Hossain Aiman, Senior Software Engineer at Spark Tech Agency in Dhaka. Stack: Node.js, TypeScript, React, Next.js, MongoDB, PostgreSQL. AI: Google Gemini API. DevOps: Docker, Nginx, PM2, CI/CD, Linux VPS, AWS, Cloudflare. 3+ years, 30+ production apps. Open to work." width="100%"/>
+  <img src="./assets/player.svg" alt="Player 1: Ahad Hossain Aiman, Senior Full Stack Developer at Spark Tech Agency, Dhaka. Attributes: backend, frontend, databases, DevOps, real-time, AI integration. Achievements: 30+ apps shipped, ~40% faster APIs, App Store and Google Play app, 500+ concurrent connections, Gemini chatbot, promoted to Senior in 12 months." width="100%"/>
 </div>
+
+<details>
+<summary>👀 View as source code</summary>
+
+<div align="center">
+  <img src="./assets/whoami.svg" alt="whoami as a TypeScript object" width="100%"/>
+</div>
+
+</details>
 
 <br/>
 
@@ -148,6 +157,7 @@ Now           ⚡  Building what's next
 
 <br/>
 
+<!-- GitHub Analytics (hidden). Remove the comment markers to restore.
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -160,6 +170,8 @@ Now           ⚡  Building what's next
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahadhossainaiman&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Contribution graph" width="100%"/>
 
 </div>
+
+-->
 
 <br/>
 
